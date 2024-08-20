@@ -1,3 +1,0 @@
-1.[[:space:]]YOLOv5[[:space:]]Performance[[:space:]]Test filter=lfs diff=lfs merge=lfs -text
-2.[[:space:]]The[[:space:]]Impact[[:space:]]of[[:space:]]YOLOv5n[[:space:]]Parameter[[:space:]]Adjustment[[:space:]](patience=30) filter=lfs diff=lfs merge=lfs -text
-3.[[:space:]]YOLOv5n[[:space:]]vs[[:space:]]YOLOv8n filter=lfs diff=lfs merge=lfs -text
